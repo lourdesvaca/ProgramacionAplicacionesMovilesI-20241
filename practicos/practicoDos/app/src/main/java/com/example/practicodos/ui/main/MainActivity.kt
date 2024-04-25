@@ -13,9 +13,27 @@ import com.example.practicodos.models.Ingredient
 import com.example.practicodos.ui.adapters.IngredientAdapter
 
 class MainActivity : AppCompatActivity() {
+    // ,OnIngredientClickListener -> este click listener va al lado del appcompact
     private lateinit var binding: ActivityMainBinding
     private val model: MainViewModel by viewModels()
 
+    /*
+val updateResultLauncher = registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result ->
+        if (result.resultCode == Activity.RESULT_OK) {
+            val ingredient = result.data?.getSerializableExtra("ingredient") as Ingredient
+            val adapter = binding.lstIngredients.adapter as IngredientAdapter
+            adapter.updateIngredient(ingredient)
+        }
+    }
+    val insertResultLauncher =
+        registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result ->
+            if (result.resultCode == Activity.RESULT_OK) {
+                val ingredient  = result.data?.getSerializableExtra("ingredient") as Ingredient 
+                val adapter = binding.lstIngredients.adapter as GeneroIngredient
+                adapter.addIngredient(ingredient)
+            }
+        }
+    */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -28,8 +46,18 @@ class MainActivity : AppCompatActivity() {
         }
 
         setupRecyclerView()
+        //setupEventListeners()
     }
 
+    /*
+    private fun setupEventListeners() {
+            binding.fabAddIngredient.setOnClickListener {
+                insertResultLauncher.launch(
+                    Intent(this, DetailActivity::class.java)
+                )
+            }
+        }
+    */
     private fun setupRecyclerView() {
         binding.lstIngredients.apply {
             adapter = IngredientAdapter(arrayListOf(
@@ -43,9 +71,22 @@ class MainActivity : AppCompatActivity() {
                 Ingredient(8, "Champiñones","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrD7r96GiiVrx_8tqii2Z-7YjZP_NSpaEcNwo8SyY0dg&s"),
                 Ingredient(9, "Zanahoria","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hdgU7QxT0OLycpfSoRRqn8AiLk6aIhsRS0-YLYynRQ&s"),
                 Ingredient(10, "Pepino","https://agrosemval.com/wp-content/uploads/2020/05/pepino-poinsett-ipc-01.jpg"),
-
+// this@MainActivity
             ))
             layoutManager = LinearLayoutManager(this@MainActivity)
         }
     }
+
+    /*
+    override fun onIngredientClick(ingredient: Ingredient) {
+        val intent = Intent(this, DetailActivity::class.java)
+        intent.putExtra("ingredient", ingredient)
+        updateResultLauncher.launch(intent)
+    }
+
+    override fun onIngredientClick(ingredient: Ingredient) {
+        val adapter = binding.lstIngredient.adapter as IngredientAdapter
+        adapter.removeIngredient(ingredient)
+    }
+    */
 }
