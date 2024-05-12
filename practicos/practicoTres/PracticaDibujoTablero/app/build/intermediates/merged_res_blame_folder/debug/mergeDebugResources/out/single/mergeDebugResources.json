@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_graymagic.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/graymagic.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_green.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/green.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-anydpi-v26/ic_logo_round.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxxhdpi_ic_logo.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_redmagic.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/redmagic.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_gray.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/gray.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-hdpi_ic_logo_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-hdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxhdpi_ic_logo.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_mario.jpg.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/mario.jpg"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-mdpi_ic_logo_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-mdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-hdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-hdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xhdpi_ic_logo.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_hipercube.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/hipercube.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-mdpi_ic_logo.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-mdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_red.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/red.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_orangemagic.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/orangemagic.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_bg2.jpg.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/bg2.jpg"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_yellow.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/yellow.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_orange.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/orange.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_blue.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/blue.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_purplemagic.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/purplemagic.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_bg.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/bg.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_yellowmagic.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/yellowmagic.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-mdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-mdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxxhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_bejeweld.jpg.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/bejeweld.jpg"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_bluemagic.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/bluemagic.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_greenmagic.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/greenmagic.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-anydpi-v26/ic_logo.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_purple.png.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/purple.png"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-hdpi_ic_logo.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-hdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/drawable_ic_logo_background.xml.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/drawable/ic_logo_background.xml"
+    },
+    {
+        "merged": "com.example.practicadibujotablero.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.practicadibujotablero.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
