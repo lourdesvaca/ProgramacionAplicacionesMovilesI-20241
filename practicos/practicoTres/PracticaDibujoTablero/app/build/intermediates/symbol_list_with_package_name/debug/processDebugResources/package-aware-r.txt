@@ -3196,7 +3196,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id btnExit
+id btnFinish
 id buttonPanel
 id cache_measures
 id callMeasure

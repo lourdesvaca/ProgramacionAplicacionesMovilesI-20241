@@ -24,7 +24,7 @@ drawable red
 drawable redmagic
 drawable yellow
 drawable yellowmagic
-id btnExit
+id btnFinish
 id lblTitle
 id main
 id tableroView
